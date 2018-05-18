@@ -1,0 +1,6 @@
+C:\Users\Zulqar102145\source\repos\FactoryDesignPattern\InvoiceInterface\bin\Debug\InvoiceInterface.dll
+C:\Users\Zulqar102145\source\repos\FactoryDesignPattern\InvoiceInterface\bin\Debug\InvoiceInterface.pdb
+C:\Users\Zulqar102145\source\repos\FactoryDesignPattern\InvoiceInterface\obj\Debug\InvoiceInterface.csprojResolveAssemblyReference.cache
+C:\Users\Zulqar102145\source\repos\FactoryDesignPattern\InvoiceInterface\obj\Debug\InvoiceInterface.csproj.CoreCompileInputs.cache
+C:\Users\Zulqar102145\source\repos\FactoryDesignPattern\InvoiceInterface\obj\Debug\InvoiceInterface.dll
+C:\Users\Zulqar102145\source\repos\FactoryDesignPattern\InvoiceInterface\obj\Debug\InvoiceInterface.pdb

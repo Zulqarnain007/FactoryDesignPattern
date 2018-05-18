@@ -1,0 +1,11 @@
+C:\Users\Zulqar102145\source\repos\FactoryDesignPattern\FactoryInvoice\bin\Debug\FactoryInvoice.dll
+C:\Users\Zulqar102145\source\repos\FactoryDesignPattern\FactoryInvoice\bin\Debug\FactoryInvoice.pdb
+C:\Users\Zulqar102145\source\repos\FactoryDesignPattern\FactoryInvoice\bin\Debug\InvoiceInterface.dll
+C:\Users\Zulqar102145\source\repos\FactoryDesignPattern\FactoryInvoice\bin\Debug\InvoiceModels.dll
+C:\Users\Zulqar102145\source\repos\FactoryDesignPattern\FactoryInvoice\bin\Debug\InvoiceInterface.pdb
+C:\Users\Zulqar102145\source\repos\FactoryDesignPattern\FactoryInvoice\bin\Debug\InvoiceModels.pdb
+C:\Users\Zulqar102145\source\repos\FactoryDesignPattern\FactoryInvoice\obj\Debug\FactoryInvoice.csprojResolveAssemblyReference.cache
+C:\Users\Zulqar102145\source\repos\FactoryDesignPattern\FactoryInvoice\obj\Debug\FactoryInvoice.csproj.CoreCompileInputs.cache
+C:\Users\Zulqar102145\source\repos\FactoryDesignPattern\FactoryInvoice\obj\Debug\FactoryInvoice.csproj.CopyComplete
+C:\Users\Zulqar102145\source\repos\FactoryDesignPattern\FactoryInvoice\obj\Debug\FactoryInvoice.dll
+C:\Users\Zulqar102145\source\repos\FactoryDesignPattern\FactoryInvoice\obj\Debug\FactoryInvoice.pdb
